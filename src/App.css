@@ -1,0 +1,17 @@
+.app-display h1 {
+  display: block;
+  text-align: center;
+  color: indigo;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 200%;
+}
+
+h2 {
+  text-align: center;
+  display: block;
+}
+
+ul {
+  display: block;
+  text-align: center;
+}
